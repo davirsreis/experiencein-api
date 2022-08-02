@@ -1,0 +1,16 @@
+aqueduct==1.10.4
+asgiref==3.5.2
+cffi==1.15.0
+Django==4.0.6
+django-cors-headers==3.13.0
+django-rest-framework==0.1.0
+djangorestframework==3.13.1
+envoy==0.0.3
+networkx==2.8.4
+path==16.4.0
+path.py==12.5.0
+pub==0.0.4
+pycparser==2.21
+pytz==2022.1
+sqlparse==0.4.2
+tzdata==2022.1
