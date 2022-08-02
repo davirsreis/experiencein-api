@@ -25,11 +25,11 @@ SECRET_KEY = '!ui0_wsnt_%@kf@t@-$n@ub)*&*7@=-7k*rt^^x(v(^ep4#r4t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost','127.0.0.1']
+ALLOWED_HOSTS = ['localhost','127.0.0.1', 'https://experiencein-api.herokuapp.com/']
 
 CORS_ORIGIN_ALLOW_ALL = True
 CORS_ORIGIN_WHITELIST = (
-    'http://localhost:8000',
+    'http://localhost:8000','https://experiencein-api.herokuapp.com/'
 )
 
 
